@@ -1,7 +1,7 @@
 <div align="center">
 # 💫 About Me:
 <h2>Shourya Dimri</h2>
--Computer Science Engineering Undergraduate at SRMIST<br>-Certified Full Stack Developer<br>-Passionate about Artificial Intelligence & Machine Learning<br>-Enthusiastic about building scalable web applications and intelligent solutions<br>-Continuously learning, innovating, and exploring emerging technologies<br>-Driven by problem-solving, creativity, and real-world impact through technology
+Computer Science Engineering Undergraduate at SRMIST<br>Certified Full Stack Developer<br>Passionate about Artificial Intelligence & Machine Learning<br>-Enthusiastic about building scalable web applications and intelligent solutions<br>Continuously learning, innovating, and exploring emerging technologies<br>Driven by problem-solving, creativity, and real-world impact through technology
 
 
 ## 🌐 Socials:
@@ -18,6 +18,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ShouryaDimri&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ShouryaDimri&icon=0&color=yellow)](https://visitcount.itsvg.in)
 
 </div>
