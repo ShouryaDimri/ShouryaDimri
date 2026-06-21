@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Shourya Dimri</h2>
-Computer Science Engineering Undergraduate at SRMIST<br>Certified Full Stack Developer<br>Passionate about Artificial Intelligence & Machine Learning<br>-Enthusiastic about building scalable web applications and intelligent solutions<br>Continuously learning, innovating, and exploring emerging technologies<br>Driven by problem-solving, creativity, and real-world impact through technology
+Computer Science Engineering Undergraduate at SRMIST<br>Certified Full Stack Developer<br>Passionate about Artificial Intelligence & Machine Learning<br>Enthusiastic about building scalable web applications and intelligent solutions<br>Continuously learning, innovating, and exploring emerging technologies<br>Driven by problem-solving, creativity, and real-world impact through technology
 
 
 ## 🌐 Socials:
