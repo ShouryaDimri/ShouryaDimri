@@ -24,3 +24,13 @@ Computer Science Engineering Undergraduate at SRMIST<br>Certified Full Stack Dev
 [![](https://komarev.com/ghpvc/?username=ShouryaDimri&icon=0&color=yellow)](https://visitcount.itsvg.in)
 
 </div>
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/zhg8fdruc0ts7rehmxqw4m38-dark.svg?v=1784113765662">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/zhg8fdruc0ts7rehmxqw4m38-light.svg?v=1784113765662">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/zhg8fdruc0ts7rehmxqw4m38-dark.svg?v=1784113765662">
+</picture>
+<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+<!-- GITHUBWALLPAPER:END -->
