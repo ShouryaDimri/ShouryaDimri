@@ -84,14 +84,6 @@ Computer Science Engineering Undergraduate at SRMIST<br>Certified Full Stack Dev
 ![](https://streak-stats.demolab.com/?user=ShouryaDimri&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShouryaDimri&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-[![](https://komarev.com/ghpvc/?username=ShouryaDimri&icon=0&color=yellow)](https://visitcount.itsvg.in)
-
-</div>
-
 
 <!-- GITHUBWALLPAPER:START -->
 <picture>
