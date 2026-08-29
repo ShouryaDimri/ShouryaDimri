@@ -33,3 +33,21 @@ Computer Science Engineering Undergraduate at SRMIST<br>Certified Full Stack Dev
   <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/zhg8fdruc0ts7rehmxqw4m38-dark.svg?v=1784113765662">
 </picture>
 <!-- GITHUBWALLPAPER:END -->
+## 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ShouryaDimri/ShouryaDimri/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ShouryaDimri/ShouryaDimri/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ShouryaDimri/ShouryaDimri/output/github-snake.svg"
+    />
+  </picture>
+</p>
