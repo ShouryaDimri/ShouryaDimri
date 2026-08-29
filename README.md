@@ -34,6 +34,9 @@ Computer Science Engineering Undergraduate at SRMIST<br>Certified Full Stack Dev
 </picture>
 <!-- GITHUBWALLPAPER:END -->
 ## 🐍 My Contributions
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaDimri" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <picture>
